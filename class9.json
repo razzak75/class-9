@@ -1,0 +1,145 @@
+{
+"studentData":[
+    {
+            "Id": 1,
+            "Name": "Raz",
+            "Class": 1,
+            "Rol": 1,
+            "Section": "A"
+    },
+    {
+            "Id": 2,
+            "Name": "Rakib",
+            "Class": 2,
+            "Rol": 2,
+            "Section": "B"
+    },
+    {
+            "Id": 3,
+            "Name": "Rahim",
+            "Class": 3,
+            "Rol": 3,
+            "Section": "A"
+    },
+    {
+            "Id": 4,
+            "Name": "Rahat",
+            "Class": 4,
+            "Rol": 4,
+            "Section": "B"
+    },
+    {
+            "Id": 5,
+            "Name": "Riaz",
+            "Class": 5,
+            "Rol": 5,
+            "Section": "A"
+    },
+    {
+    
+            "Id": 6,
+            "Name": "Ripon",
+            "Class": 6,
+            "Rol": 6,
+            "Section": "B"
+    },
+    {
+            "Id": 7,
+            "Name": "Rony",
+            "Class": 7,
+            "Rol": 7,
+            "Section": "A"
+    },
+    {
+            "Id": 8,
+            "Name": "Ridoy",
+            "Class": 8,
+            "Rol": 8,
+            "Section": "B"
+    },
+    {
+            "Id": 9,
+            "Name": "Rubel",
+            "Class": 9,
+            "Rol": 9,
+            "Section": "A"
+    },
+    {
+            "Id": 10,
+            "Name": "Rasid",
+            "Class": 10,
+            "Roll": 10,
+            "Section": "B"
+    }
+],
+    "teachersData":[
+    {
+            "Id": 100,
+            "Name": "Shahab",
+            "Age": 100,
+            "Location": "dhaka"
+    },
+    {
+            "Id": 99,
+            "Name": "Raza",
+            "Age": 99,
+            "Location": "chittagong"
+    },
+    {
+            "Id": 98,
+            "Name": "Sohel",
+            "Age": 98,
+            "Location": "dhaka"
+    },
+    {
+            "Id": 97,
+            "Name": "Sarwar",
+            "Age": 97,
+            "Location": "chittagong"
+    },
+    {
+            "Id": 96,
+            "Name": "Taher",
+            "Age": 96,
+            "Location": "cumilla"
+    },
+    {
+            "Id": 95,
+            "Name": "Selim",
+            "Age": 95,
+            "Location": "chittagong"
+    },
+    {
+            "Id": 94,
+            "Name": "Anwar",
+            "Age": 94,
+            "Location": "cumilla"
+    },
+    {
+            "Id": 93,
+            "Name": "Iftekhar",
+            "Age": 93,
+            "Location": "dhaka"
+    },
+    {
+            "Id": 92,
+            "Name": "Nazmul",
+            "Age": 92,
+            "Location": "cumilla"
+    },
+    {
+            "Id": 91,
+            "Name": "Nurul",
+            "Age": 91,
+            "Location": "chittagong"
+    },
+    {
+            "Id": 90,
+            "Name": "Ashraful",
+            "Age": 90,
+            "Location": "dhaka"
+    }
+
+
+]    
+}
